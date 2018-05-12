@@ -1,5 +1,5 @@
 _repo: The-World-s-Best-Poetry-Volume-4--The-Higher-Life_12759
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Gladden, Washington
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2262'
     url: http://www.gutenberg.org/2009/agents/2262
     wikipedia: http://en.wikipedia.org/wiki/Washington_Gladden
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Carman, Bliss
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4343
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12759#The-World-s-Best-Poetry-Volume-4--The-Higher-Life
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2004-06-28'
 gutenberg_type: Text
